@@ -1,4 +1,4 @@
-![image](https://github.com/AlbertoFAraujo/SQL_EDA_Logistica/assets/105552990/6145f6fa-1b7b-4382-91ef-3ec71d613df2)
+![image](https://github.com/AlbertoFAraujo/SQL_EDA_Comercio_Exterior/assets/105552990/8d7f287c-4b8a-4ad5-ba45-30c5298eb8f4)
 
 ### Tecnologias utilizadas: 
 | [<img align="center" alt="sql" height="60" width="60" src="https://github.com/AlbertoFAraujo/SQL_EDA_exercito2022/assets/105552990/805dfaf3-4725-47f9-86d5-241953a018ab">](https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16) | [<img align="center" alt="azure" height="60" width="60" src="https://github.com/AlbertoFAraujo/SQL_People_analytics/assets/105552990/a0848293-4573-431a-b7e4-2f79bc9cc32e">](https://azure.microsoft.com/pt-br/products/data-studio/) |
